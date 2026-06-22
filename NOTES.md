@@ -1,0 +1,4 @@
+- ChromaDB is a vector database
+- 2 concepts to know:
+    - Collection (a named bucket holding one set of related documents+vectors)
+    - Persistance (whether the data lives only in memory and vanishes when the script ends)
