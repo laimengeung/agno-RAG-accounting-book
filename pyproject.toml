@@ -1,0 +1,14 @@
+[project]
+name = "rag-with-agno"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=2.6.17",
+    "chonkie[semantic]>=1.6.8",
+    "chromadb>=1.5.9",
+    "google-genai>=2.8.0",
+    "ocrmypdf>=17.7.0",
+    "python-dotenv>=1.2.2",
+]
